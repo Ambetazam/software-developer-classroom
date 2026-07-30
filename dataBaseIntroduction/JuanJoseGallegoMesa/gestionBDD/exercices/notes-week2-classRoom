@@ -1,0 +1,33 @@
+DATOS
+#Modelo Entidad Relacion
+#desde una fotografia de la seleccion colombia
+
+Atributos:Propiedades
+
+
+#En este caso utilizamos palabras para describir
+
+Propiedad: Sexo
+Valor: Femenino
+Propiedad: Puesto: Arquero
+Propiedad: Nombre: Rene Higuita
+Propiedad: Estatura: 1.76 cm
+Propiedad: Color-de-piel: Moreno
+Propiedad: Retirado. Valor: Yes
+
+Valores Booleanos: Datos de Verdad: SI o NO
+Ex: Esta lloviendo: False
+EX: Ya comio?: True
+
+Atributo: Nombre
+
+Conjuntos
+Jugadores
+Tecnico o Entrenador
+
+Cada uno va a tener Atributos y van a tener valores dentro de los atributos
+
+Una entidad es una agrupacion de datos asociados a un contexto especifico
+
+
+Cuando ya registramos los valores de cada atributo le nombramos: Registros

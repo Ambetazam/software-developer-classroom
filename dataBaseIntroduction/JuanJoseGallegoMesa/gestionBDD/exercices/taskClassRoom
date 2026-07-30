@@ -1,0 +1,27 @@
+Jugadores:Tecnicos
+
+La relaciones cambian, segun el 'Contexto'
+Tecnicas para relacionar la informacion:
+
+Cuando identifique las dos entidades, voy a arrancar poniendo un 1 a cada una; y realizo preguntas
+en este sentido:
+
+Esta entidad esta asociada a:...
+Tiene tantos ...o
+Tiene relacion con ...
+Esta presente en ...
+
+Un jugador esta asociado con: ... Cuantos Tecnicos: depende del contexto.
+Un jugador de la seleccion colombia, con cuantos tecnicos de la seleccion colombia tiene relacion?
+
+#Es fundamental, escribir y pensar la base de datos
+
+
+#Graficar el contexto: notebook notes, later you can see the screenshot of the notebook
+
+Un tecnico de la seleccion colombia cuantos jugadores tiene asociados?
+
+TRICK:
+Debes seleccionar las llegadas...
+
+La relacion de las entidades se construye con las llegadas
