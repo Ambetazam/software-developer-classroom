@@ -1,3 +1,3 @@
-DevelopingIntroduction Notes
+#DevelopingIntroduction Notes
+#Jaime Zapata Classroom support notes
 
-Jaime Zapata Classroom support notes
