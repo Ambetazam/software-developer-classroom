@@ -51,12 +51,17 @@ Are you hitting an overflow bug in a loop, or are you trying to determine the ma
 
 
 
+#Operadores y Jerarquia Operacional
 
+Nivel 1: Parentesis (Resuelven la ambiguedad)
+Nivel 2: Potencias y Raices ^
+NIvel 3: Multiplicacion Division Modulo(residuo de la operacion) *, /
+NIvel 4: suma Y resta +, -
 
+Operadores Relacionales y Logicos: Mayor que, menor que, igual, diferente. Se evaluan despues de los aritmeticos, los logicos (Y, O, NO) conectan expresiones relacionales.
+Codigo ASCII
 
-
-
-
+Nos permite encontrar caracteres especiales para usar simbolos usando combinaciones de teclas:
 
 
 
