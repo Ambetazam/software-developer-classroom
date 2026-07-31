@@ -1,0 +1,87 @@
+Backend
+
+Se puede disenar un algoritmo para leer datos y registrar el usuario en la base de datos
+
+el fronted esta relacionado con este projecto
+
+
+e.x:
+
+https://administraciondesistemas.com/arquitectura-tecnologica-netflix&/
+
+Variables:
+Acomuladores
+de apoyo
+
+
+Tipos de datos den programacion
+
+entero int
+decimal float / double
+cadena de texto string
+caracter char
+boobleano bool
+fecha y hora date
+
+
+Sachi Asked:
+
+What is the max lenght for a int date:
+
+AI Overview
+The maximum value an int can hold in Java is 2,147,483,647. 
+Because int represents a numerical value and not a sequence, it does not have a "length" in terms of characters or elements. Instead, it has a strict size constraint defined by the Oracle Java Specification: 
+Key Specifications
+
+    Maximum Value: 2,147,483,647 (accessible via Integer.MAX_VALUE)
+    Minimum Value: -2,147,483,648 (accessible via Integer.MIN_VALUE)
+    Max Digit Length: 10 digits (when formatted as a positive string)
+    Memory Size: 32 bits (4 bytes) 
+
+Related Maximum Lengths in Java
+If you meant the maximum length of Java data structures that use an int for indexing: 
+
+    Arrays: The theoretical maximum capacity of a Java array is 2,147,483,647 elements.
+    Strings: The maximum character length of a String is 2,147,483,647 characters. 
+
+What happens if you exceed it?
+If you add 1 to Integer.MAX_VALUE, Java will not throw an error by default. Instead, it wraps around to the minimum negative value (-2,147,483,648) due to integer overflow. 
+If you need to store whole numbers larger than 2.14 billion, use the long data type or the BigInteger class. 
+Are you hitting an overflow bug in a loop, or are you trying to determine the maximum size for an array or collection?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
