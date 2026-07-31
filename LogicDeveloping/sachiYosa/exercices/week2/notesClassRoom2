@@ -64,7 +64,17 @@ Codigo ASCII
 Nos permite encontrar caracteres especiales para usar simbolos usando combinaciones de teclas:
 
 
+##CLEAN CODE
 
+For example I can write constant variables in capital cases to diferentiate the other variables:
+e.x:    definir precioProducto, impuestoCalculado como Real
+	definir TASA_IVA como real	
+
+
+##Definir Variables:
+
+gradosCelcius
+gradosFareheint = gradosCelcius(9/5)+ 2
 
 
 
