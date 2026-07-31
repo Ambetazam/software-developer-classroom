@@ -74,7 +74,10 @@ e.x:    definir precioProducto, impuestoCalculado como Real
 ##Definir Variables:
 
 gradosCelcius
-gradosFareheint = gradosCelcius(9/5)+ 2
+gradosFareheint = gradosCelcius(9/5)+ 32
+
+##ClassRoom Activity in pairs
+#I worked with Jorge
 
 
 
