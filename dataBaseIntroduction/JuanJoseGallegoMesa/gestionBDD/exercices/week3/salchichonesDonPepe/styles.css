@@ -1,0 +1,7 @@
+.banner{
+
+	background-image: url("./background.png");
+	background-position: top center;
+	padding: 25%;
+	background-attachment: fixed;
+}

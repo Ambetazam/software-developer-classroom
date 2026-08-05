@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="./styles.css">
+
+
+<body>
+	<section class="banner"></section>
+	
+	<section class="container my-5 text-center">
+		<section>
+			<section class="col-6">
+				<h3>SALCHICHONES DON PEPE</h3>
+				<hr>
+			</section>
+		</section>
+	</section>
