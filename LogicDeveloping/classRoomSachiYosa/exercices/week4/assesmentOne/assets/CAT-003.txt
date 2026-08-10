@@ -1,4 +1,4 @@
-Proceso ValidarPedidoMayorista
+Algoritmo ValidarPedidoMayorista
 
 	// Defino las constantes como variables
 
@@ -63,4 +63,4 @@ Proceso ValidarPedidoMayorista
 	// Salida o Output del Algoritmo
 	Escribir 'El Pedido es Viable?: ', pedidoViable
 
-FinProceso
+FinAlgoritmo
