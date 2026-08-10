@@ -1,6 +1,6 @@
 The First Assesment of Three to demonstrate my learning journey about Logic in Software Developing.
 
-Activity Description:
+Activity Description: [📄 Project Report](resources/Entregable1.pdf)
 
 '''
 Especificaciones de los retos, para el entregable: Diagrama de Flujo del Algoritmo: Representación gráfica en herramienta digital, respetando las figuras normativas (óvalos, paralelogramos, rectángulos). Diccionario/Identificación de Variables: Listado explícito de qué datos son constantes, cuáles son de entrada (y su tipo de dato), y cuáles son variables de salida. Código en Pseudocódigo: Implementación aplicando los principios de Clean Code. Evidencia de Prueba de Escritorio: Tabla con la traza de ejecución manual usando los datos de prueba suministrados en los criterios de aceptación. Proyecto El proyecto se requiere la gestión de una base de datos para almacenar información. La interfaz de usuario debe ser intuitiva y fácil de navegar. La lógica de programación se utiliza para implementar las reglas de negocio y garantizar la consistencia de los datos. Objetivo integrador Desarrollar un sistema, integrando las materias de Gestión de Bases de Datos, Introducción a la Programación y Lógica de Programación. Lógica de Programación La Lógica de Programación apoya el proyecto implementando las reglas de negocio y garantizando la consistencia de los datos, utilizando la lógica de programación para validar los datos y realizar cálculos.
