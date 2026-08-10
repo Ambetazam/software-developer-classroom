@@ -50,3 +50,18 @@ Costo total es $60,000 que es <= $100,000 (Verdadero)
 Peso total es 900kg que supera los 750kg permitidos (Falso).
 
 El resultado final en pantalla debe ser Falso.
+
+
+To solve this exercice I decided to use the pseint tool to write the pseudocode; even thought theres not need to us it.
+Then I can use it to write the code and eventually export to other languages with the aid of the tool.
+
+For now on; I am working in the understanding what I going to write according with the exercices rules and the tools can I use:
+
+I beggin writing in a paper the skecht draw to have an idea about what I am going to make on the pc station.
+
+I need to create the pseudocode; the flowchart using any app available to make diagrams; besides pseint can do it; but I reather preffer to make it my own desing and share both designs to look at any difference.
+The desktop-test will be also in a paper; in excel format and in pseint test; due to the fact there are some ways I decided to use a few of them.
+
+This will be the roadmap to do so:
+
+Requirement → Business Rule → Algorithm → Pseudocode → Flowchart → Desktop Test → Result
