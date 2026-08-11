@@ -76,3 +76,13 @@ https://youtu.be/6gAwS0FgzUY?si=XQlFAmJY5eE1jQci
 
 PRUEBAS de ESCRITORIO 📑 en PSeInt ⌨️: 
 https://youtu.be/Um7FukzWsHQ?si=9GmM1PCo4obkq3kU
+
+The resolution:
+
+PseudoCodigo en PseInt: [📄Pseudocode](assets/CAT-003.psc)
+PseudoCodigo en txt: [📄Pseudocode](assets/CAT-003.txt)
+PseudoCodigo en html: [📄Pseudocode](assets/pseudocode.html)
+
+Diagrama de Flujo: ![FlowChart](assets/flowChart.png)
+
+Prueba de Escritorio: [📄Prueba de Escritorio](assets/pruebaDeEscritorio.xlsx)
