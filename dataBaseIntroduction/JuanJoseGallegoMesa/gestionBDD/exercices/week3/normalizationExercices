@@ -1,0 +1,18 @@
+Caso de estudio: Sistema de dispensación de medicamentos de una EPS Una EPS
+desea desarrollar un sistema para administrar la entrega de medicamentos a sus
+a�liados. Actualmente la información se lleva en hojas de cálculo, lo que ha generado
+duplicidad de datos e inconsistencias. Cada usuario está identi�cado por un número
+de documento y tiene información como nombre, fecha de nacimiento, teléfono,
+dirección y municipio de residencia. Cada usuario pertenece a una EPS y puede estar
+a�liado como cotizante o bene�ciario. Los médicos registran fórmulas médicas para
+los usuarios. Cada fórmula tiene una fecha de emisión, un diagnóstico principal y
+puede incluir uno o varios medicamentos. De cada medicamento se conoce un
+código, nombre comercial, principio activo, laboratorio fabricante, presentación
+(tableta, cápsula, jarabe, etc.) y concentración. Una misma fórmula puede contener
+varios medicamentos y, para cada uno de ellos, se debe registrar la dosis, frecuencia,
+duración del tratamiento y cantidad formulada. La EPS cuenta con varias farmacias
+autorizadas para entregar los medicamentos. Cuando un usuario reclama una
+fórmula, la farmacia registra la fecha de entrega, el funcionario responsable y las
+cantidades realmente entregadas de cada medicamento, ya que en ocasiones solo
+se realiza una entrega parcial por falta de inventario. Cada farmacia mantiene un
+inventario de medicamentos, registrando la cantidad disponible de cada uno.
