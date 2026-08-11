@@ -52,7 +52,7 @@ Peso total es 900kg que supera los 750kg permitidos (Falso).
 El resultado final en pantalla debe ser Falso.
 
 
-To solve this exercice I decided to use the  [📄 pseint app](resources/pseint-w64-20250314.exe) to write the pseudocode; even thought theres not need to us it.
+To solve this exercice I decided to use the  [📄 pseint app](resources/pseint-w64-20250314.exe) to write the pseudocode; even thought theres not need to us to use it.
 Then I can use it to write the code and eventually export to other languages with the aid of the tool.
 
 For now on; I am working in the understanding what I going to write according with the exercices rules and the tools can I use:
