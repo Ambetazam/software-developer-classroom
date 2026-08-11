@@ -65,3 +65,14 @@ The desktop-test will be also in a paper; in excel format and in pseint test; du
 This will be the roadmap to do so:
 
 Requirement → Business Rule → Algorithm → Pseudocode → Flowchart → Desktop Test → Result
+
+
+The Desktop Test was made following these examples from:
+
+https://www.youtube.com/@CharlyCimino
+
+PRUEBAS de ESCRITORIO 📑 CLAVE para ENTENDER ALGORITMOS ✅ :
+https://youtu.be/6gAwS0FgzUY?si=XQlFAmJY5eE1jQci
+
+PRUEBAS de ESCRITORIO 📑 en PSeInt ⌨️: 
+https://youtu.be/Um7FukzWsHQ?si=9GmM1PCo4obkq3kU
