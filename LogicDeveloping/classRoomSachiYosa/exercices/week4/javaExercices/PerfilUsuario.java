@@ -9,7 +9,7 @@ public class PerfilUsuario{
 
 	System.out.println("The Name is: " + name);
 	System.out.println("The Rol is: " + rol);
-	System.out.println("The Access Level is: " + accessLevel)
+	System.out.println("The Access Level is: " + accessLevel);
 
 	}
 }
