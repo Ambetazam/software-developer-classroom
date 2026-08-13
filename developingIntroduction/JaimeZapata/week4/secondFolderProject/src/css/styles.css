@@ -1,0 +1,23 @@
+*{
+	background-color: black;
+	font-size: medium;
+}
+
+
+img{
+
+	background-color: red;
+	color: white;
+}
+
+
+.image{
+	width= 300px;
+	height= 300px;
+	display= block;
+}
+
+#image{
+	background-color: red;
+	font-size: large;
+}
