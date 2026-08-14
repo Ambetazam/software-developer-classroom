@@ -21,7 +21,7 @@ public class Main{
 		System.out.println("Do you have driver license?: (Yes or Not)");
 		haveLicense = read.next().toLowerCase();
 
-		System.out.println("Do you have any restrictions to drive?: (Yes or Not) ")
+		System.out.println("Do you have any restrictions to drive?: (Yes or Not)");
 		haveRestricton = read.next().toLowerCase();
 
 
