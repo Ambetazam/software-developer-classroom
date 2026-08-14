@@ -9,6 +9,14 @@ Algoritmo ValidarPedidoMayorista
 	CAPACIDAD_TRANSPORTADORA <- 750
 
 
+	// This part of the code is a modification to make this variable global, because I see theres no way to input the bussines rule
+	// Besides the only way to do it is declare it in to 'magic number' but the rules doesn't allows to do so
+
+	Definir CANTIDAD_MINIMA como Real
+	
+	CANTITDAD_MINIMA >- 50	
+
+
 
 	//Defino las variables para la Entrada de Datos
 
@@ -55,7 +63,7 @@ Algoritmo ValidarPedidoMayorista
 
 	Definir pedidoViable Como Lógico
 
-	pedidoViable <- (cantidad>50) Y (costoTotal<=saldoCliente) Y (pesoTotal<=CAPACIDAD_TRANSPORTADORA)
+	pedidoViable <- (CANTIDAD_MINIMA) Y (costoTotal<=saldoCliente) Y (pesoTotal<=CAPACIDAD_TRANSPORTADORA)
 
 
 
