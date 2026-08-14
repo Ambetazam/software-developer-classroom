@@ -8,6 +8,11 @@ public class Main{
 
 		int AGE = 18;
 		int edadUsuario;
+		String haveLicence;
+		String haveRestriction;
+
+
+
 		Scanner read = new Scanner(System.in);
 
 		System.out.println("How old are you:");
@@ -15,6 +20,10 @@ public class Main{
 
 		System.out.println("Do you have driver license?: (Yes or Not)");
 		haveLicense = read.next().toLowerCase();
+
+		System.out.println("Do you have any restrictions to drive?: (Yes or Not) ")
+		haveRestricton = read.next().toLowerCase();
+
 
 
 
