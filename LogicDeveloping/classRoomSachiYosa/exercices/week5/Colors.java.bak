@@ -1,0 +1,31 @@
+import java.utils.Scanner;
+
+
+public class Colors{
+
+	public static void main(string[] args){
+
+		Scanner myColors = new Scanner(System.in);
+
+		int color = myColors.nextInt();
+
+
+		if (color == blue){
+
+			System.out.println("You can enter inside the Club!!!");
+
+		} else if (color == green) {
+
+			System.out.println("You can enter inside the Club!!");
+
+		} else if (color == red){
+
+			System.out.println("You can enter inside the Club!!!");
+		} else {
+
+			System.out.println("Try next time!!!");
+		}
+
+		myColors.close();
+	}
+}
