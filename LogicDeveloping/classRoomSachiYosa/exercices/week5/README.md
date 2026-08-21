@@ -14,3 +14,23 @@ Example we did together over the class session:
 Task for the next classRoom session:
 
 Make an exercice which control in a while cycle the input of numbers instead of letters or any other character to represent the age of the person.
+
+Today's session is friday and we are studying the cycles, then we are doing some examples on java.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
