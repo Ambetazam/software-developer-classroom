@@ -4,12 +4,10 @@ import java.util.Scanner;
 
 public class Weather{
 
-	public static void main(String[] args){
+	public static void main(string[] args){
 
 		Scanner read = new Scanner(System.in);
-
-		String weather;
-
+		String Weather;
 		System.out.println("How is the weather?:");
 		System.out.println("Sunny");
 		System.out.println("Raining");
@@ -20,11 +18,18 @@ public class Weather{
 		if (weather.equalsIgnoreCase("sunny")){
 			System.out.println("Take the Umbrella!!");
 		} else if(weather.equalsIgnoreCase("raining")){
-			System.out.println("Take the Big Umbrella!!!");
+			System.out.println("Take the Big Umbrella!!");
 		} else {
-			System.out.print("Take it also the umbrella for whatever happens!");
+			System.out.println("Take the umbrella also!!");
+
+
 		}
 
-		read.close();
+		weather.close();
+
+
+
 	}
+
+
 }
