@@ -19,8 +19,8 @@ Today's session is friday and we are studying the cycles, then we are doing some
 
 
 
-
-
+[Weather Exercice](src/java/Weather.java)
+[Discount Exercice](src/java/Discount.java)
 
 
 
