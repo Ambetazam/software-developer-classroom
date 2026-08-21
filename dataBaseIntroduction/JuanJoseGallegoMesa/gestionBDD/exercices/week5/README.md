@@ -77,3 +77,4 @@ Exercices made on the classRoom:
 ![UNF - Diagram](assets/unf-turismo-1152439570-diagrama.png)
 ![UNF - Tables](assets/unf-turismo-1152439570-tablas.png)
 
+Today's lesson is the first assesment.
