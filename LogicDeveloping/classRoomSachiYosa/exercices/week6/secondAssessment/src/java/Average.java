@@ -21,7 +21,7 @@ public class Average{
 			String nombreProducto = reader.nextLine();
 			System.out.println("Ingrese el costo base de " + productoActual + ":");
 			double costoBase = reader.nextDouble();
-			reader.nextln();
+			reader.nextLine();
 
 			costoTotal += costoBase;
 
