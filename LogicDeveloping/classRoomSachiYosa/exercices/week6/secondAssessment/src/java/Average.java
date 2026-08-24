@@ -31,7 +31,7 @@ public class Average{
 
 				System.out.println("El producto: " + nombreProducto + "es de Categoria Baja");
 
-			} else if {
+			} else if (costoBase >= 10000 && costoBase <= 50000) {
 				System.out.println("El producto: " + nombreProducto + "es de Categoria Media");
 			} else {
 				System.out.println("El producto: " + nombreProducto + "es de Categoria Alta");
