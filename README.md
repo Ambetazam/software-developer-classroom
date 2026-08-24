@@ -1,3 +1,1 @@
-DevelopingIntroduction Notes
-
-Jaime Zapata Classroom support notes
+## CESDE Full Stack Software Developer Notes
