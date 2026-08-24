@@ -11,7 +11,7 @@ public class Average{
 		scanner.nextLine();
 
 		double costoTotal = 0.0;
-		int cantidadCategoriaAlta = 0; // Defino el nombre del acomulador para el ciclo for
+		int cantidadCategoriaAlta = 0; // Defino el nombre del acomulador para el ciclo for; 
 
 	}
 }
