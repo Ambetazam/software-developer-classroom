@@ -4,4 +4,4 @@
 
 ## I decided to make the fith exercice for the assesment that is called:
 	*Evaluador de Lotes de inventario y Promedios de costeo.
-	[Second Delivery](secondAssessment/src/java/Average.java)
+[Second Delivery](secondAssessment/src/java/Average.java)
