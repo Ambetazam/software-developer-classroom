@@ -11,7 +11,25 @@ public class Average{
 		scanner.nextLine();
 
 		double costoTotal = 0.0;
-		int cantidadCategoriaAlta = 0; // Defino el nombre del acomulador para el ciclo for; 
+		int cantidadCategoriaAlta = 0; // Defino el nombre del acomulador para el ciclo for iniciando desde cero; 
+		
+		for (int productoActual = 1; productoActual <= cantidadProductos; productoActual++){
+
+			System.out.println("Ingrese el nombre del producto " + productoActual + ":");
+			String nombreProducto = scanner.nextLine();
+			System.out.println("Ingrese el costo base de " + procductoActual + ":");
+			double costoBase = scanner.nextDouble();
+			scanner.nextln();
+
+			costoTotal += costoBase;
+
+
+		}
+
+
+
+
+
 
 	}
 }
