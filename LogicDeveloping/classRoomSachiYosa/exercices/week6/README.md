@@ -5,3 +5,6 @@
 ## I decided to make the fith exercice for the assesment that is called:
 	*Evaluador de Lotes de inventario y Promedios de costeo.
 [Second Delivery](secondAssessment/src/java/Average.java)
+
+* The exercice requires spsecifically call for Scanner, a for loop; if, else and else if; an accumulator and an average for the exercice.
+
