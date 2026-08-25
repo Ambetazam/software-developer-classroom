@@ -43,3 +43,18 @@ footer{
 	background-color: blue;
 
 }
+
+
+@media max-width: 480px < 768px{
+
+	header{
+		max-width: 480px < 768px;
+	}
+
+
+
+}
+
+
+
+
