@@ -23,6 +23,12 @@ img{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+
+	navigator-menu{
+		width:70%;
+		heigth:100%;
+		
+	}
 	
 }
 
