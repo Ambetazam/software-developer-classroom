@@ -5,8 +5,9 @@ public class Average{
 	public static void main(String[] args){
 
 		Scanner reader = new Scanner(System.in);
-
-		System.out.print("Cuanta cantidad de productos desea ingresar al lote del Catalogo?:");
+		
+		System.out.print("\nCatalogo de Productos\n");
+		System.out.print("\nCuanta cantidad de productos desea ingresar al lote del Catalogo?: \n");
 		int cantidadProductos = reader.nextInt();
 		reader.nextLine();
 
@@ -19,7 +20,7 @@ public class Average{
 			// Ingreso de datos de usuario
 			System.out.println("Ingrese el nombre del producto " + productoActual + ":");
 			String nombreProducto = reader.nextLine();
-			System.out.println("Ingrese el costo base de " + productoActual + ":");
+			System.out.println("Ingrese el costo base de " + nombreProducto + ":");
 			double costoBase = reader.nextDouble();
 			reader.nextLine();
 
@@ -29,12 +30,12 @@ public class Average{
 
 			if (costoBase < 10000){
 
-				System.out.println("El producto: " + nombreProducto + "es de Categoria Baja");
+				System.out.println("El producto: " + nombreProducto + " es de Categoria Baja");
 
 			} else if (costoBase >= 10000 && costoBase <= 50000) {
-				System.out.println("El producto: " + nombreProducto + "es de Categoria Media");
+				System.out.println("El producto: " + nombreProducto + " es de Categoria Media");
 			} else {
-				System.out.println("El producto: " + nombreProducto + "es de Categoria Alta");
+				System.out.println("El producto: " + nombreProducto + " es de Categoria Alta");
 				cantidadCategoriaAlta++; // Acomulador para los productos en Categoria Alta.
 			}
 		}
@@ -46,7 +47,7 @@ public class Average{
 
 		double costoPromedio = costoTotal / cantidadProductos;
 		System.out.println("\n RESULTADO DE INGRESO DE LOTE AL CATALOGO \n");
-		System.out.println("El Costo Promedio del Lote Ingresado es de: " + costoPromedio + "$ COP");
+		System.out.println("El Costo Promedio del Lote Ingresado es de: " + costoPromedio + " $ COP");
 		System.out.println("La Cantidad de Productos Ingresados para Categoria Alta es: " + cantidadCategoriaAlta);
 		
 		reader.close();
