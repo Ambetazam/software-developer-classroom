@@ -1,0 +1,63 @@
+body{
+	background-color: blue;
+
+	h1{
+		color: white;
+	}
+
+	p{
+		color: white;
+	}
+}
+
+/*First Mobile Principle: Mobile Phone*/
+@media (min-widht: 480px){
+
+	body{
+		background-color: green;
+	}
+
+	h1{
+		font-size: 50px;
+	}
+
+	p{
+		font-size: 10px;
+	}
+}
+
+
+
+/*First Mobile Principle: Tablet*/
+@media (min-widht: 834px){
+
+        body{
+                background-color: green;
+        }
+
+        h1{
+                font-size: 50px;
+        }
+
+        p{
+                font-size: 10px;
+        }
+}
+
+
+
+/*First Mobile Principle: Desktop Pc*/
+@media (max-widht: 1440px){
+
+        body{
+                background-color: green;
+        }
+
+        h1{
+                font-size: 50px;
+        }
+
+        p{
+                font-size: 10px;
+        }
+}
