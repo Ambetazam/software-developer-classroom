@@ -18,10 +18,14 @@ public class Csat{
 		switch{
 
 			case "1";
-				System.out.println("\n La Calificacion ha sido Excelente \n")
-
-
-
+				System.out.println("\n La Calificacion ha sido Excelente \n");
+				counterVotesExcelent++;
+			case "2"
+				System.out.println("\n La Calificacion ha sido Regular \n");
+				counterVotesRegular++;
+			case "3"
+				System.out.println("\n La Calidad del Servicio fue mala.\n");
+				counterVotesBad++;
 
 		}
 
