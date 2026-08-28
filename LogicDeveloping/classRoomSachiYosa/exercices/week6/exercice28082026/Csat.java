@@ -15,6 +15,19 @@ public class Csat{
 
 		double votosTotales = 0;
 
+		switch{
+
+			case "1";
+				System.out.println("\n La Calificacion ha sido Excelente \n")
+
+
+
+
+		}
+
+
+
+
 		double porcentajeVotosExcelentes = (counterVotesExcelent / VotosTotales) * 100;
 
 
