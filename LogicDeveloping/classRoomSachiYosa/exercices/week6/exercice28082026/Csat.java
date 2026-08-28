@@ -13,10 +13,12 @@ public class Csat{
 		int counterVotesRegular = 0;
 		int counterVotesBad = 0;
 
-		double porcentajeVotosExcelentes = 0;
+		double votosTotales = 0;
+
+		double porcentajeVotosExcelentes = (counterVotesExcelent / VotosTotales) * 100;
 
 
-
+		System.out.println("\n El porcentaje de clientes que votaron 'Excelente' es: " + porcentajeVotosExcelentes + " %")
 
 
 	}
