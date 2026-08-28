@@ -17,4 +17,4 @@
 
 	* Each delivery must have associate a payment, that has the payment method of each delivery. date of payment, cost, and description(optional).
 	
-	
+		
