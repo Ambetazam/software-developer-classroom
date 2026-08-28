@@ -19,7 +19,7 @@ public class Csat{
 
 
 		System.out.println("\n El porcentaje de clientes que votaron 'Excelente' es: " + porcentajeVotosExcelentes + " %\n")
-		
+
 
 		if(porcentajeVotosExcelentes >= 70.0){
 			System.out.println("\n Meta de Satisfaccion Alcanzada.\n")
