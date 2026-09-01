@@ -1,5 +1,18 @@
 #GIT 
 
+## Some platforms to work with it:
+
+
+
+	* gitlab
+	* github
+	* bickbuket
+	* Azure
+	* AWS
+	* etc, etc, etc.
+
+## Main instructions:
+
 	* Working tree:
 		** Edit files 
 	* Staging Area
@@ -7,7 +20,7 @@
 	* Repository
 
 
-### Notes
+### Notes:
 
 Important commands the basic ones.
 
@@ -29,4 +42,4 @@ Important commands the basic ones.
 
 
 
-
+## I will create a new repository call gitClassRoom, but the practice for the class will be only for practice and not going to maintain it
