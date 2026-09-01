@@ -17,4 +17,16 @@ Important commands the basic ones.
 
 	* git flow: search an standard to identify changes
 
-	* trees
+	* trees:
+
+		** 
+
+###Fun fact
+
+* Genre Identity Flag: LGTBI
+
+	* master/main
+
+
+
+
