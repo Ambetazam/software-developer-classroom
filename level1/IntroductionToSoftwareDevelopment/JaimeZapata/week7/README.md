@@ -43,3 +43,11 @@ Important commands the basic ones.
 
 
 ## I will create a new repository call gitClassRoom, but the practice for the class will be only for practice and not going to maintain it
+
+
+
+## Class Room Session Thursday topics:
+
+	* git flows
+	* pull request
+	* trees
