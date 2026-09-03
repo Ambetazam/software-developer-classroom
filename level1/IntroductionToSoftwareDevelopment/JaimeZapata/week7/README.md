@@ -66,11 +66,17 @@ Important commands the basic ones.
             * feature
 
 
+## Some commands
+
+	* git checkout -b "name of the tree"
+	* git 
+
+	* git checkout -b "develop"
 
 
-
-
-
+## Standards to write understable commits:
+	
+	* git commit -m "Update:" or "Fixed:" or "Issue:" "Chor:" or "Feature:", etc ...
 
 
 
