@@ -51,3 +51,48 @@ Important commands the basic ones.
 	* git flows
 	* pull request
 	* trees
+
+
+
+
+### Trees
+
+
+    * main-master
+
+        * develop
+
+
+            * feature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
