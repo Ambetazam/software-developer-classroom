@@ -10,7 +10,7 @@ public class Login {
 
 		Scanner read = new Scanner(System.in);
 
-		String user, paswd;
+		String user, pswd;
 		System.out.println("User");
 		user = read.next();
 
@@ -31,10 +31,10 @@ public class Login {
 		String realUser = "Administrator";
 		String realPassword = "Changeme";
 
-		if (user = realUser == user && realPassword == pswd){
+		if (realUser == user && realPassword == pswd){
 
 			System.out.println("Hi");
-			return false;
+			return true;
 
 		}
 
@@ -42,13 +42,13 @@ public class Login {
 		else{
 
 			System.out.println("Incorrect");
-
+		  return false; 
 
 		}
 
 
 
-		return
+		
 
 	}
 
